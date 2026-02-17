@@ -108,6 +108,7 @@ ls daily-papers/
 | 每日论文分析 | 07:50 每天 | `daily-papers/` |
 | 每周博客监控 | 08:00 每周日 | `blog-monitor/` |
 | Markdown语法检查 | 08:30 每周日 | (检查并修复) |
+| Markdown转PDF+LaTeX修复 | 09:00 每3天 | (生成PDF+修复md) |
 
 所有任务完成后自动执行语法检查并推送到 GitHub。
 
